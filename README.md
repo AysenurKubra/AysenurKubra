@@ -13,8 +13,8 @@ Currently, I’m exploring:
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,angular,nextjs,docker,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,nestjs,redux,git,postman,figma,vscode,webstorm" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,angular,nextjs,nestjs,docker,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,redux,git,postman,figma" />
 </p>
 
 <hr>
